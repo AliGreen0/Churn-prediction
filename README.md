@@ -8,10 +8,9 @@ It includes advanced feature engineering, automatic hyperparameter tuning and co
 
 open the terminal, create a new environment and paste this:
 
-'''
-# Install dependencies
+```
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-# Run the pipeline
 python main.py
-'''
+```
+
