@@ -6,8 +6,8 @@ This project demonstrates a complete machine learning pipeline for predicting cu
 using decision trees. The code follows best practices for data science projects and includes
 proper data preprocessing, feature engineering, model optimization, and evaluation.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Ali Sekhavati
+Date: 27/06/2025
 """
 
 import pandas as pd
